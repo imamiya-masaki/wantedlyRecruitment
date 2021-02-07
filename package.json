@@ -74,7 +74,17 @@
       "no-extra-semi": "error",
       "no-unexpected-multiline": "error",
       "no-unreachable": "error",
-      "no-console": "off"
+      "no-console": "off",
+      "object-shorthand": "off",
+      "comma-dangle": "off",
+      "prefer-template": "off",
+      "dot-notation": "off",
+      "vue/require-prop-type-constructor": "off",
+      "space-before-function-paren": "off",
+      "eol-last": "off",
+      "prefer-const": "off",
+      "vue/no-parsing-error": "off",
+      "max-len": "off"
     }
   },
   "browserslist": [
