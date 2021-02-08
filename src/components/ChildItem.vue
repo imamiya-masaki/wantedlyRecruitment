@@ -25,7 +25,6 @@ export default {
   },
   props: {
     item: {},
-
   },
   methods: {
     detailJump: function () {
